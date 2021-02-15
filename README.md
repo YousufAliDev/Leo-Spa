@@ -1,2 +1,2 @@
-# Leospa
-Site Link: https://YousufAliDev.github.io/Leo-spa/
+# Leo-spa
+Site Link: https://yousufalidev.github.io/Leo-Spa/
